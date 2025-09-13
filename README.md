@@ -5,7 +5,7 @@
 1. Clone the repo:
 ```bash
 git clone https://github.com/LadybugRosie/SWAPER-Disease-Detection
-cd SWAPER-Disease-Detection
+cd LaTeX-LSP
 ```
 2. Setup the Python virtual environment
 ```bash
