@@ -9,7 +9,7 @@ cd LaTeX-LSP
 ```
 2. Setup the Python virtual environment
 ```bash
-python3 -m venv venv
-source venv/bin/activate # macOS/Linux
-venv\Scripts\activate # Windows
+python3 -m venv .venv
+source .venv/bin/activate # macOS/Linux
+.venv\Scripts\activate # Windows
 pip install -r requirements.txt
