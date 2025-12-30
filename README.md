@@ -1,4 +1,4 @@
-# HackMIT-2025
+# Improved LaTeX Engine
 
 ## Installation instructions
 
