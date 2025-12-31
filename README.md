@@ -1,4 +1,4 @@
-# Improved LaTeX Engine
+# Improved LaTeX Editor
 
 ## Installation instructions
 
